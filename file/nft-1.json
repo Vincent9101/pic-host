@@ -15,6 +15,12 @@
         }
     ],
     "properties": {
+       "creators": [
+       {
+            "address": "HpSSgHYv3g5b8CV5SXpbHk4m5YSXFTSgTbkPqSZyf8Y6",
+            "verified": false,
+            "share": 100
+        }],
         "files": [
             {
                 "uri": "https://avatars.githubusercontent.com/u/26539237?v=4",
