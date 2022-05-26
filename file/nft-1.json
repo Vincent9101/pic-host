@@ -1,0 +1,31 @@
+{
+    "name": "Arano #1",
+    "description": "Generative art on Solana.",
+    "image": "https://avatars.githubusercontent.com/u/26539237?v=4",
+    "animation_url": "https://avatars.githubusercontent.com/u/26539237?v=4",
+    "external_url": "bloger.top",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "name",
+            "value": "arano"
+        },
+        {
+            "trait_type": "words",
+            "value": "stay hungry, stay foolish"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://avatars.githubusercontent.com/u/26539237?v=4",
+                "type": "image/png"
+            },
+            {
+                "uri": "https://raw.githubusercontent.com/arano9/pic-host/main/img/polkadot.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    }
+}
